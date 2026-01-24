@@ -40,7 +40,7 @@ I prioritize **code quality, deployment readiness, measurable performance, and l
 - **Backend & API:** RESTful API design, JWT authentication, role-based access  
 - **Database Management:** MongoDB, Firebase (Auth, Firestore)  
 - **UI/UX & Frontend:** Responsive design, Tailwind CSS, ShadCN UI, Framer Motion  
-- **Deployment & DevOps:** Linux (Ubuntu), VPS, cPanel, domain setup, Vercel
+- **Deployment & DevOps:** Linux (Ubuntu), VPS, cPanel, domain setup, Vercel, CI/CD Automation 
 - **Marketing & Analytics:** Facebook Pixel, Google Tag Manager, Google Analytics, Conversion API, Google Search Console indexing  
 - **Version Control & Collaboration:** Git, GitHub, VSCode  
 
@@ -50,7 +50,7 @@ I prioritize **code quality, deployment readiness, measurable performance, and l
 
 **Frontend:** React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, ShadCN UI, Framer Motion  
 **Backend:** Node.js, Express.js, MongoDB, Firebase (Auth, Firestore), REST APIs, JWT Authentication  
-**DevOps & Deployment:** Linux (Ubuntu), VPS, cPanel, Domain setup, Vercel
+**DevOps & Deployment:** Linux (Ubuntu), VPS, cPanel, Domain setup, Vercel, CI/CD Automation 
 **Marketing & Analytics:** Facebook Pixel, Google Tag Manager, Google Analytics, Conversion API, Google Search Console  
 **Tools & IDEs:** Git, GitHub, Postman, Figma, VSCode  
 **Architecture & Practices:** Clean, modular code, role-based access, secure authentication, scalable systems  

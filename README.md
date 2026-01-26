@@ -17,6 +17,8 @@ Full-Stack Web Developer (MERN) · 4+ Years Experience · Linux, Deployment & An
   />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasinarafatajad&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 ---
 
 ## Professional Summary

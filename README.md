@@ -19,9 +19,8 @@ Full-Stack Web Developer (MERN) · 4+ Years Experience · Linux, Deployment & An
 
 ## 🧠 Competitive Programming
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=yasinarafatjad)
-![LeetCode](https://leetcard.jacoblin.cool/yasinarafatjad?theme=light)
-- 🔗 LeetCode: https://leetcode.com/u/yasinarafatjad/
+![LeetCode](https://leetcard.jacoblin.cool/yasinarafatajad?theme=light)
+- 🔗 LeetCode: https://leetcode.com/u/yasinarafatajad/
 
 ---
 

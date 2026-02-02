@@ -21,7 +21,7 @@ Full-Stack Web Developer (MERN) · 4+ Years Experience · Linux, Deployment & An
 
 ![LeetCode](https://leetcard.jacoblin.cool/yasinarafatajad?theme=light)
 
- - LeetCode Profile :  https://leetcode.com/u/yasinarafatjad/
+ - LeetCode Profile :  https://leetcode.com/u/yasinarafatajad/
 
 ## Professional Summary
 

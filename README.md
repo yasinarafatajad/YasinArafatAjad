@@ -93,11 +93,9 @@ By integrating AI into my development and project workflows, I can **deliver hig
 
 | Project | Description | Tech Stack | Demo / Screenshot |
 |---------|-------------|-----------|-----------------|
-| **E-Commerce Platform** | Multi-vendor store with role-based access, payment gateway integration, real-time inventory updates, and analytics tracking. | React, Node.js, Express, MongoDB, Tailwind CSS, Facebook Pixel, GTM, GA | ![Demo](Okkorkunjo.png ) |
+| **E-Commerce Platform** | Multi-vendor store with role-based access, payment gateway integration, real-time inventory updates, and analytics tracking. | React, Node.js, Express, MongoDB, Tailwind CSS, Facebook Pixel, GTM, GA | ![Demo](OkkorKunjo.png ) |
 | **Admin Dashboard** | Analytics dashboard with charts, user management, live notifications, and conversion tracking. | Next.js, Node.js, Firebase, Framer Motion, GA | ![Demo](Dashboard.png ) |
 | **Portfolio Website** | Personal portfolio with projects showcase, contact form, responsive design, and analytics setup. | React, Tailwind CSS, ShadCN UI, GA | ![Demo](Brakless.png ) |
-| **Open-Source Contribution** | Added features and fixed bugs for a MERN boilerplate on GitHub. | MERN Stack | ![Demo](https://via.placeholder.com ) |
-
 > All projects are **fully deployed**, **tracked with analytics**, and accessible via my portfolio: [Visit Portfolio](https://yasinarafatajad.vercel.app)
 
 ---

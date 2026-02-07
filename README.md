@@ -13,7 +13,7 @@ Full-Stack Web Developer (MERN) · 4+ Years Experience · Linux, Deployment & An
 <p align="center">
   <img  align="center"
     src="https://streak-stats.demolab.com/?user=yasinarafatajad" 
-    alt="yasinarafatajad's GitHub Streak" 
+    alt="" 
   />
 </p>
 

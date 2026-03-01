@@ -103,9 +103,10 @@ By integrating AI into my development and project workflows, I can **deliver hig
 
 ## Udemy Certifications
 
-- **MERN Stack Front To Back: Full Stack React, Redux & Node.js**  
-- **React JS & Node.js – Build Full Stack Web Applications**  
-- **Advanced JavaScript, React & Node.js Projects**  
+| Tech Stack | Certifications |
+|----------------------|----------------------------|
+| **MERN Stack : Full Stack** | ![Demo](certificate-mern-001.jpg ) |
+| **Blog : Full Stack** | ![Demo](certificate-blog-001.jpg ) |
 
 ---
 

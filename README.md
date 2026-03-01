@@ -94,8 +94,9 @@ By integrating AI into my development and project workflows, I can **deliver hig
 | Project | Description | Tech Stack | Demo / Screenshot |
 |---------|-------------|-----------|-----------------|
 | **E-Commerce Platform** | Multi-vendor store with role-based access, payment gateway integration, real-time inventory updates, and analytics tracking. | React, Node.js, Express, MongoDB, Tailwind CSS, Facebook Pixel, GTM, GA | ![Demo](OkkorKunjo.png ) |
-| **Admin Dashboard** | Analytics dashboard with charts, user management, live notifications, and conversion tracking. | Next.js, Node.js, Firebase, Framer Motion, GA | ![Demo](Dashboard.png ) |
+| **Admin Dashboard** | Analytics dashboard with charts, user management, live notifications, and conversion tracking. | Next.js, Node.js, Firebase, Framer Motion, GA | ![Demo](uShop.png ) |
 | **Portfolio Website** | Personal portfolio with projects showcase, contact form, responsive design, and analytics setup. | React, Tailwind CSS, ShadCN UI, GA | ![Demo](Brakless.png ) |
+| **Project Management** | HANDY is a full-stack project and learning management application designed to streamline personal productivity through structured project tracking, progress analytics, and streak-based motivation. | React.js, TypeScript, Tailwind CSS, Express, Node.js, Mongo DB | ![Demo](handy.png ) |
 > All projects are **fully deployed**, **tracked with analytics**, and accessible via my portfolio: [Visit Portfolio](https://yasinarafatajad.vercel.app)
 
 ---

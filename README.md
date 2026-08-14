@@ -6,7 +6,7 @@
 <!-- Name & Title -->
 <h1 align="center">Yasin Arafat Ajad</h1>
 <h3 align="center">
-Full-Stack Web Developer (MERN) · 4+ Years Experience · Linux, Deployment & Analytics Expert
+Full-Stack Web Developer (MERN) · Started Journey in 2022 · Linux, Deployment & Diagnosis Expert
 </h3>
 
 <!-- GitHub Streak -->
@@ -17,15 +17,16 @@ Full-Stack Web Developer (MERN) · 4+ Years Experience · Linux, Deployment & An
   />
 </p>
 
+<!--
 ## Competitive Programming
 
 ![LeetCode](https://leetcard.jacoblin.cool/yasinarafatajad?theme=light)
 
  - LeetCode Profile :  https://leetcode.com/u/yasinarafatajad/
 
-## Professional Summary
-
 I am a **Full-Stack Web Developer** specializing in the **MERN stack**, with **4+ years of professional experience (2022–Present)**. I build **scalable, maintainable, and production-ready web applications** with **secure authentication, modular architecture, performance optimization, and marketing integrations**.  
+-->
+## Professional Summary
 
 I have successfully delivered:  
 - Business and portfolio websites  
@@ -38,25 +39,13 @@ I prioritize **code quality, deployment readiness, measurable performance, and l
 
 ---
 
-## Core Expertise
-
-- **Full-Stack Development:** React, Next.js, Node.js, Express  
-- **Backend & API:** RESTful API design, JWT authentication, role-based access  
-- **Database Management:** MongoDB, Firebase (Auth, Firestore)  
-- **UI/UX & Frontend:** Responsive design, Tailwind CSS, ShadCN UI, Framer Motion  
-- **Deployment & DevOps:** Linux (Ubuntu), VPS, cPanel, domain setup, Vercel, CI/CD Automation 
-- **Marketing & Analytics:** Facebook Pixel, Google Tag Manager, Google Analytics, Conversion API, Google Search Console indexing  
-- **Version Control & Collaboration:** Git, GitHub, VSCode  
-
----
-
 ## Technical Skills
 
-**Frontend:** React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, ShadCN UI, Framer Motion  
-**Backend:** Node.js, Express.js, MongoDB, Firebase (Auth, Firestore), REST APIs, JWT Authentication  
-**DevOps & Deployment:** Linux (Ubuntu), VPS, cPanel, Domain setup, Vercel, CI/CD Automation 
+**Frontend:** React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Framer Motion  , others ui library[ShadCN UI,daisy ui etc]
+**Backend:** Node.js, Express.js, MongoDB, REST APIs, JWT Authentication  
+**DevOps & Deployment:** Linux (Ubuntu), VPS, cPanel, Domain setup, Vercel, Render, CI/CD Automation 
 **Marketing & Analytics:** Facebook Pixel, Google Tag Manager, Google Analytics, Conversion API, Google Search Console  
-**Tools & IDEs:** Git, GitHub, Postman, Figma, VSCode  
+**Tools & IDEs:** Git, GitHub, Postman, Compass Figma, VSCode, Antigravity, Claude Code,  
 **Architecture & Practices:** Clean, modular code, role-based access, secure authentication, scalable systems  
 
 ---
@@ -74,26 +63,11 @@ I prioritize **code quality, deployment readiness, measurable performance, and l
 
 ---
 
-## AI & Productivity
-
-I leverage **AI tools and automation** to optimize my workflow, reduce repetitive tasks, and increase productivity.  
-
-Some ways I use AI include:  
-- **Code Assistance:** Accelerating development with AI-driven code suggestions and debugging.  
-- **Project Planning:** Automating task management, roadmap creation, and timeline estimations.  
-- **Content Generation:** Creating documentation, README updates, and technical write-ups efficiently.  
-- **Data Insights & Analysis:** Leveraging AI to extract patterns from data and improve decision-making.  
-- **Time Management:** Automating repetitive workflows and prioritizing tasks to meet deadlines faster.  
-
-By integrating AI into my development and project workflows, I can **deliver high-quality applications faster** while maintaining **clean, maintainable, and scalable code**.
-
----
-
 ## Projects & Demos
 
 | Project | Description | Tech Stack | Demo / Screenshot |
 |---------|-------------|-----------|-----------------|
-| **E-Commerce Platform** | Multi-vendor store with role-based access, payment gateway integration, real-time inventory updates, and analytics tracking. | React, Node.js, Express, MongoDB, Tailwind CSS, Facebook Pixel, GTM, GA | ![Demo](OkkorKunjo.png ) |
+| **E-Commerce Platform** | Multi-vendor store with role-based access, payment gateway integration, real-time inventory updates, and analytics tracking. | Next.js, Node.js, Express, MongoDB, Tailwind CSS, Daisy ui, Facebook Pixel | ![Demo](GadgetLifehomepage.png ) |
 | **Admin Dashboard** | Analytics dashboard with charts, user management, live notifications, and conversion tracking. | Next.js, Node.js, Firebase, Framer Motion, GA | ![Demo](uShop.png ) |
 | **Portfolio Website** | Personal portfolio with projects showcase, contact form, responsive design, and analytics setup. | React, Tailwind CSS, ShadCN UI, GA | ![Demo](Brakless.png ) |
 | **Project Management** | HANDY is a full-stack project and learning management application designed to streamline personal productivity through structured project tracking, progress analytics, and streak-based motivation. | React.js, TypeScript, Tailwind CSS, Express, Node.js, Mongo DB | ![Demo](handy.png ) |
